@@ -87,7 +87,7 @@
         alert("Please enter a valid number.");
         return;
       }
-      if (num.length > 12) {
+      if (num.length > 11) {
         alert("The number you entered is out of the scope of this function");
         return;
       }
